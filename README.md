@@ -22,7 +22,7 @@ Click to open and try the project safely:
 ---
 
 
-> ضع الصور داخل مجلد `images` في الريبو. يمكن التقاطها من الرسوم البيانية أو النتائج في الـ Notebook.
+
 
 ---
 
