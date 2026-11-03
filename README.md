@@ -79,5 +79,5 @@ The token is entered at runtime and is never stored in the notebook or the repos
 
 <p align="center">
   <strong>Raghad Al-Bishri</strong> · Full-Stack Engineer<br/>
-  <a href="https://github.com/raghadalb-tech">GitHub</a> · <a href="https://www.linkedin.com/in/raghad-abdullah-53b503395">LinkedIn</a>
+  <a href="https://github.com/raghadalb-tech">GitHub</a> · <a href="https://www.linkedin.com/in/raghad-a-53b503395">LinkedIn</a>
 </p>
